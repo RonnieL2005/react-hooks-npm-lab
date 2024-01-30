@@ -1,6 +1,6 @@
 //No need to do any work here.
 //If package.json and the proper modules are installed in the correct location, this should display correctly in the browser.
-import format from "./node_modules/date-fns/esm/format/index.js";
+import format from ".//home/ronnie-ronnielangat/react-hooks-npm-lab/color-clock/node_modules";
 
 function displayTime() {
   const clock = document.querySelector("#clock");
